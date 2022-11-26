@@ -33,9 +33,9 @@ while keepGoing.lower() == "y":
 
     salesTax = 1.1
     if size.lower() == "small":
-        pizzaCost = 8.99
+        pizzaCost = 7.99
     elif size.lower() == "medium":
-        pizzaCost = 14.99
+        pizzaCost = 13.99
     elif size.lower() == "large":
         pizzaCost = 17.99
 
